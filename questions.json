@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+        "answer": "Delhi"
+    },
+    {
+        "question": "Which keyword is used for branching in Python?",
+        "options": ["for", "while", "if", "def"],
+        "answer": "if"
+    },
+    {
+        "question": "Which data type stores key-value pairs?",
+        "options": ["List", "Tuple", "Dictionary", "Set"],
+        "answer": "Dictionary"
+    },
+    {
+        "question": "Which library is used for GUI in Python?",
+        "options": ["NumPy", "Tkinter", "Pandas", "Flask"],
+        "answer": "Tkinter"
+    }
+]
